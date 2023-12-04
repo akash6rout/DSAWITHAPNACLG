@@ -24,6 +24,7 @@ public class RemoveDuplicateInAnArray {
 		nums[4]=2;
 		nums[5]=2;
 		nums[6]=3;
+		//print
 	System.out.println(mergeSortedArray(nums));
 	}
 }

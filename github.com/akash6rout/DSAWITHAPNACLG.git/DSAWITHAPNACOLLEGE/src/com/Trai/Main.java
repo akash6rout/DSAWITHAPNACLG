@@ -45,5 +45,6 @@ public class Main {
 		
 		System.out.println(search("thee"));
 		System.out.println(search("thor"));
+		System.out.println(search("any"));
 	}
 }

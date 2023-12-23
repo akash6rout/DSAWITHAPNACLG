@@ -30,6 +30,7 @@ public class PrintDecNo {
 	
 	
 	public static void main(String[] args) {
+		
 		//int n=10;
 		//printDec(n);
 		//printRevNo(n);
